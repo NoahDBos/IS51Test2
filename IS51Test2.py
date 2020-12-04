@@ -25,3 +25,20 @@ def main
     determine grades above class average
 return results
 """
+
+def numberofgrades(Final):
+    with open(Final) as f:
+        for i, l in enumerate(f):
+            pass
+        return i + 1
+print("Number of grades:", numberofgrades("Final.txt"))
+
+def averagegrade(Final):
+    numbersfile = open("Final.txt", "r")
+
+    total = 0
+
+    for line in numbersfile:
+        averagegrade = total + int(line)
+
+print("Average grade:", averagegrade) 
