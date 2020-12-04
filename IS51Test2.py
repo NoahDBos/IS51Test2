@@ -7,3 +7,21 @@ there were to determine the class grade average and return that number to the us
 Lastly, it will calculate the percentage of grades that are above the class average
 and return that number to the user.
 """
+
+"""
+def main
+    open list
+    count list
+    close list
+return results
+
+def main
+    open list
+    add numbers in list / 24
+return results
+
+def main
+    open list
+    determine grades above class average
+return results
+"""
